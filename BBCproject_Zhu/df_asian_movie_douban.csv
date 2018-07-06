@@ -1,0 +1,337 @@
+critics_name,critics_cn,movie_name,movie_dir,movie_genre,movie_year,dir_country_cleaned,imdb_score_cleaned,douban_score
+Michael Atkinson ,US,2046,Wong Kar-wai,"Drama, Romance, Sci-Fi",2004,China,7.5,7.5
+Alyssa Rosenberg ,US,2046,Wong Kar-wai,"Drama, Romance, Sci-Fi",2004,China,7.5,7.5
+Mario Espinosa ,Cuba,3-Iron,Kim Ki-duk,"Crime, Drama, Romance",2004,South Korea,8.1,8.0
+E Nina ,Italy,A Borrowed Identity,Eran Riklis,Drama,2014,Israel,7.2,
+Tim Appelo ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Nicholas Barber ,UK,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Lizelle Bisschoff ,UK,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Utpal Borpujari ,India,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Luke Buckmaster ,Australia,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Samuel Castro ,Colombia,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Enrico Chiesa ,Senegal,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Juan Carlos ,Colombia,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Tina Hassannia ,Canada,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Annette Insdorf ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Uri Klein ,Israel,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Tomris Laffly ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Rebecca Laurence ,UK,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Maggie Lee ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Ben Mankiewicz ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Lee Marshall ,Italy,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Farran Smith ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Susanne Ostwald ,Switzerland,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Zakir Hossein ,Bangladesh,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Mauricio Reina ,Colombia,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Rene Rodriguez ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Eric Sasono ,Indonesia,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Matt Zoller ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+David Stratton ,Australia,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Scott Tobias ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Rahul Verma ,UK,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Stephen Whitty ,US,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Raymond Zhou ,China,A Separation,Asghar Farhadi,"Drama, Mystery",2011,Iran,8.3,8.7
+Stephen Teo ,Singapore,A Tale of Two Sisters,Kim Jee-woon,"Drama, Horror, Mystery",2003,South Korea,7.2,7.1
+Butheina Kazim ,UAE,A Time for Drunken Horses,Bahman Ghobadi,"Drama, War",2000,Iran,7.7,8.2
+NT Binh ,France,A Touch of Sin,Jia Zhangke,"Action, Drama",2013,China,7.1,7.9
+Antoine Guillot ,France,A Touch of Sin,Jia Zhangke,"Action, Drama",2013,China,7.1,7.9
+Rasha Salti ,Lebanon,A Touch of Sin,Jia Zhangke,"Action, Drama",2013,China,7.1,7.9
+Avner Shavit ,Israel,A Touch of Sin,Jia Zhangke,"Action, Drama",2013,China,7.1,7.9
+Farran Smith ,US,About Elly,Asghar Farhadi,"Drama, Mystery, Thriller",2009,Iran,8.1,8.1
+E Nina ,Italy,About Elly,Asghar Farhadi,"Drama, Mystery, Thriller",2009,Iran,8.1,8.1
+Kristin Thompson ,US,About Elly,Asghar Farhadi,"Drama, Mystery, Thriller",2009,Iran,8.1,8.1
+Annette Insdorf ,US,Ajami,Scandar Copti and Yaron Shani,"Crime, Drama",2009,Israel,7.4,7.0
+Shubhra Gupta ,India,Ankhon Dekhi,Rajat Kapoor,"Comedy, Drama",2013,India,8.0,
+Kim Morgan ,US,Battle Royale,Kinji Fukasaku,"Adventure, Drama, Sci-Fi",2000,Japan,7.7,
+Jake Wilson ,Australia,Blissfully Yours,Apichatpong Weerasethakul,"Drama, Romance",2002,Thailand,7.0,7.6
+Ana Maria ,Brazil,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Justin Chang ,US,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Alonso Duralde ,US,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Uri Klein ,Israel,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Todd McCarthy ,US,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Steve Persall ,US,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Zakir Hossein ,Bangladesh,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Sam Rigby ,UK,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+E Nina ,Italy,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Missy Schwartz ,US,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Chadi Zeneddine ,Qatar,Brokeback Mountain,Ang Lee,"Drama, Romance",2005,Taiwan,7.7,8.7
+Maggie Lee ,US,CafÈ LumiËre,Hou Hsiao-hsien,Drama,2003,China,7.0,7.5
+Joe McElhaney ,US,CafÈ LumiËre,Hou Hsiao-hsien,Drama,2003,China,7.0,7.5
+E Nina ,Italy,Caramel,Nadine Labaki,"Comedy, Drama, Romance",2007,Lebanon,7.1,7.8
+Simon Abrams ,US,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Sam Adams ,US,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+David Ehrlich ,US,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Ed Gonzalez ,US,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Peter Howell ,Canada,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Adrian Martin ,Australia,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Keith Phipps ,US,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Scott Renshaw ,US,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Scott Tobias ,US,Certified Copy,Abbas Kiarostami,Drama,2010,Iran,7.3,
+Michael Phillips ,US,Climates,Nuri Bilge Ceylan,Drama,2006,Turkey,7.3,7.4
+Tina Hassannia ,Canada,Closed Curtain,Jafar Panahi,Drama,2013,Iran,6.6,6.8
+Zhanna Issabayeva ,Kazakhstan,Coming Home,Zhang Yimou,"Drama, Romance, War",2014,China,7.3,7.7
+Shubhra Gupta ,India,Court,Chaitanya Tamhane,Drama,2014,India,7.7,7.0
+Joseph Fahim ,Egypt,Crimson Gold,Jafar Panahi,"Drama, Thriller",2003,Iran,7.5,7.2
+Ken Dancyger ,US,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Drew McWeeny ,US,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Joe Neumaier ,US,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Claudia Puig ,US,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Carrie Rickey ,US,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Alyssa Rosenberg ,US,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Missy Schwartz ,US,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Yael Shuv ,Israel,"Crouching Tiger, Hidden Dragon",Ang Lee,"Action, Adventure, Fantasy",2000,Taiwan,7.9,8.0
+Mahen Bonetti ,US,Cuba: An African Odyssey,Jihan El-Tahri,Documentary,2007,Lebanon,8.3,
+Shubhra Gupta ,India,Dev D,Anurag Kashyap,"Comedy, Drama, Romance",2009,India,8.1,
+NT Binh ,France,Distant,Nuri Bilge Ceylan,Drama,2002,Turkey,7.7,8.3
+Colin Covert ,US,Distant,Nuri Bilge Ceylan,Drama,2002,Turkey,7.7,8.3
+David Stratton ,Australia,Distant,Nuri Bilge Ceylan,Drama,2002,Turkey,7.7,8.3
+Joseph Fahim ,Egypt,Divine Intervention,Elia Suleiman,"Drama, Romance, War",2002,Israel,6.6,7.3
+Rahul Verma ,UK,Gangs of Wasseypur,Anurag Kashyap,"Action, Crime, Drama",2012,India,8.2,6.7
+Matt Zoller ,US,Gett: The Trial of Viviane Amselem,Ronit Elkabetz and Shlomi Elkabetz,Drama,2014,Israel,7.7,8.3
+Jonathan Romney ,UK,"Goodbye, Dragon Inn",Tsai Ming-liang,"Drama, Comedy",2003,Malaysia,7.1,7.3
+Shubhra Gupta ,India,Hazaaron Khwaishein Aisi,Sudhir Mishra,Drama,2003,India,8.0,
+Oggs Cruz ,Philippines,Heaven's Story,Takahisa Zeze,Drama,2010,Japan,7.3,6.9
+Tim Appelo ,US,Hero,Zhang Yimou,"Action, Adventure, History",2002,China,7.9,7.0
+Aysha Iqbal ,India,Hero,Zhang Yimou,"Action, Adventure, History",2002,China,7.9,7.0
+Lindiwe Dovey ,UK,Hooligan Sparrow,Nanfu Wang,"Documentary, Crime, Drama",2016,China,7.2,
+Laya Maheshwari ,India,House of Flying Daggers,Zhang Yimou,"Action, Adventure, Drama",2004,China,7.6,5.8
+Jake Wilson ,Australia,I Don't Want to Sleep Alone,Tsai Ming-liang,"Drama, Romance",2006,Malaysia,7.0,7.3
+Simon Abrams ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Sam Adams ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Arturo Aguilar ,Mexico,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Ali Arikan ,Turkey,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Cameron Bailey ,Canada,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Diego Batlle ,Argentina,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+NT Binh ,France,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Lizelle Bisschoff ,UK,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Utpal Borpujari ,India,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Hannah Brown ,Israel,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Luke Buckmaster ,Australia,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Luciano Castillo ,Cuba,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Monica Castillo ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Justin Chang ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Fernand Denis ,Belgium,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Alonso Duralde ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Bilge Ebiri ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+David Fear ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Ed Gonzalez ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Juan Carlos ,Colombia,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Carmen Gray ,Germany,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Hauvick Habechian ,Lebanon,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Peter Howell ,Canada,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Aysha Iqbal ,India,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Nick James ,UK,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Andreas Kilb ,Germany,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Rebecca Laurence ,UK,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Maggie Lee ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Mario Naito ,Cuba,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Verena Lueken ,Germany,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Fiona Macdonald ,UK,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Keith Phipps ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Zakir Hossein ,Bangladesh,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Jordan Raup ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Scott Renshaw ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Katey Rich ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Antonio†Maz√≥n ,Cuba,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Rene Rodriguez ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Joshua Rothkopf ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Alaka Sahani ,India,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Nick Schager ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Missy Schwartz ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Soh Jae ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Alin Tasciyan ,Turkey,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Stephen Teo ,Singapore,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Kristin Thompson ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Peter Travers ,US,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Rahul Verma ,UK,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Chadi Zeneddine ,Qatar,In the Mood for Love,Wong Kar-wai,"Drama, Romance",2000,China,8.1,8.5
+Alin Tasciyan ,Turkey,Journey to the West,Tsai Ming-liang,"Action, Adventure, Comedy",2014,Malaysia,6.8,6.8
+Adrian Martin ,Australia,Kung Fu Hustle,Stephen Chow,"Action, Comedy, Crime",2004,China,7.8,8.1
+Ken Dancyger ,US,Life of Pi,Ang Lee,"Adventure, Drama, Fantasy",2012,Taiwan,7.9,9.0
+Richard Brody ,US,Like Someone In Love,Abbas Kiarostami,Drama,2012,Iran,7.0,7.5
+Jake Wilson ,Australia,Like Someone In Love,Abbas Kiarostami,Drama,2012,Iran,7.0,7.5
+Kenji Fujishima ,US,Love Exposure,Sion Sono,"Action, Comedy, Drama",2008,Japan,8.1,8.2
+Shubhra Gupta ,India,"LSD: Love, Sex Aur Dhokha",Dibakar Banerjee,"Comedy, Crime, Drama",2010,India,7.1,7.1
+Raymond Zhou ,China,"Lust, Caution",Ang Lee,"Drama, History, Romance",2007,Taiwan,7.6,8.2
+Shubhra Gupta ,India,Maqbool,Vishal Bhardwaj,"Crime, Drama",2003,India,8.2,
+Aysha Iqbal ,India,Maqbool,Vishal Bhardwaj,"Crime, Drama",2003,India,8.2,
+Cho Seongyong ,Senegal,Memories of Murder,Bong Joon-ho,"Action, Crime, Drama",2003,South Korea,8.1,8.7
+Matthew Patches ,US,Memories of Murder,Bong Joon-ho,"Action, Crime, Drama",2003,South Korea,8.1,8.7
+Soh Jae ,US,Memories of Murder,Bong Joon-ho,"Action, Crime, Drama",2003,South Korea,8.1,8.7
+Rasha Salti ,Lebanon,Men at Work,Mani Haghighi,"Comedy, Drama, Romance",2006,Iran,7.1,7.5
+Maggie Lee ,US,Millennium Actress,Satoshi Kon,"Animation, Drama, Fantasy",2001,Japan,7.9,8.6
+David Jenkins ,UK,Millennium Mambo,Hou Hsiao-hsien,"Drama, Romance",2001,China,7.0,7.1
+Calum Marsh ,Canada,Millennium Mambo,Hou Hsiao-hsien,"Drama, Romance",2001,China,7.0,7.1
+Utpal Borpujari ,India,Monsoon Wedding,Mira Nair,"Comedy, Drama, Romance",2001,India,7.4,7.5
+Shubhra Gupta ,India,Monsoon Wedding,Mira Nair,"Comedy, Drama, Romance",2001,India,7.4,7.5
+Tim Appelo ,US,Mother,Bong Joon-ho,"Drama, Horror, Mystery",2009,South Korea,6.7,8.3
+Christian Blauvelt ,US,Mother,Bong Joon-ho,"Drama, Horror, Mystery",2009,South Korea,6.7,8.3
+Ong Soh ,Singapore,Mother,Bong Joon-ho,"Drama, Horror, Mystery",2009,South Korea,6.7,8.3
+Rasha Salti ,Lebanon,My Heart Beats Only for Her,Mohamed Soueid,,2009,Lebanon,,
+Fernand Denis ,Belgium,Nobody Knows,Hirokazu Koreeda,Drama,2004,Japan,8.1,9.0
+Agn√®s C ,France,Oasis,Lee Chang-dong,"Drama, Sci-Fi",2002,South Korea,8.2,8.5
+Lizelle Bisschoff ,UK,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Devin Faraci ,US,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Ernesto Garratt ,Chile,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Tom Gunning ,US,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Butheina Kazim ,UAE,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Ong Soh ,Singapore,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Agn√®s C ,France,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Zakir Hossein ,Bangladesh,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Antonio†Maz√≥n ,Cuba,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Yael Shuv ,Israel,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Stephanie Zacharek ,US,Oldboy,Park Chan-wook,"Action, Drama, Mystery",2003,South Korea,8.4,8.2
+Ali Arikan ,Turkey,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,"Crime, Drama",2011,Turkey,7.8,7.6
+Bilge Ebiri ,US,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,"Crime, Drama",2011,Turkey,7.8,7.6
+Hauvick Habechian ,Lebanon,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,"Crime, Drama",2011,Turkey,7.8,7.6
+Nick James ,UK,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,"Crime, Drama",2011,Turkey,7.8,7.6
+Uri Klein ,Israel,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,"Crime, Drama",2011,Turkey,7.8,7.6
+Laya Maheshwari ,India,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,"Crime, Drama",2011,Turkey,7.8,7.6
+Zakir Hossein ,Bangladesh,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,"Crime, Drama",2011,Turkey,7.8,7.6
+Shubhra Gupta ,India,Paan Singh Tomar,Tigmanshu Dhulia,"Action, Biography, Crime",2012,India,8.2,6.8
+Carrie Rickey ,US,Paradise Now,Hany Abu-Assad,"Crime, Drama, Thriller",2005,Israel,7.5,7.7
+Mohammed Rouda ,Lebanon,Paradise Now,Hany Abu-Assad,"Crime, Drama, Thriller",2005,Israel,7.5,7.7
+Dominik Kamalzadeh ,Austria,Platform,Jia Zhangke,"Drama, History",2000,China,7.4,8.2
+Isabelle Regnier ,France,Platform,Jia Zhangke,"Drama, History",2000,China,7.4,8.3
+Michael Phillips ,US,Poetry,Lee Chang-dong,Drama,2010,South Korea,7.8,8.4
+Oggs Cruz ,Philippines,Pulse,Kiyoshi Kurosawa,"Horror, Sci-Fi, Thriller",2001,Japan,4.7,6.8
+Kenji Fujishima ,US,Pulse,Kiyoshi Kurosawa,"Horror, Sci-Fi, Thriller",2001,Japan,4.7,6.8
+Nick Schager ,US,Pulse,Kiyoshi Kurosawa,"Horror, Sci-Fi, Thriller",2001,Japan,4.7,6.8
+Mahen Bonetti ,US,Red Leaves,Bazi Gete,Drama,2014,Israel,6.6,
+Javier Porta ,Argentina,"Right Now, Wrong Then",Hong Sang-soo,Drama,2015,South Korea,7.2,7.5
+Justin Chang ,US,Secret Sunshine,Lee Chang-dong,Drama,2007,South Korea,7.5,7.8
+Peter Debruge ,US,Secret Sunshine,Lee Chang-dong,Drama,2007,South Korea,7.5,7.8
+Dominik Kamalzadeh ,Austria,Secret Sunshine,Lee Chang-dong,Drama,2007,South Korea,7.5,7.8
+Shiguehiko Hasumi ,Japan,Seventh Code,Kiyoshi Kurosawa,"Mystery, Thriller",2013,Japan,5.7,6.5
+Isabelle Regnier ,France,Shara,Naomi Kawase,Drama,2003,Japan,7.7,7.7
+Simon Abrams ,US,Sparrow,Johnnie To,"Drama, Romance",2008,China,6.7,6.3
+Sam Adams ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Tim Appelo ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Cameron Bailey ,Canada,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Lindsay Baker ,UK,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Diego Batlle ,Argentina,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Luke Buckmaster ,Australia,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Monica Castillo ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Robbie Collin ,UK,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Oggs Cruz ,Philippines,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Alonso Duralde ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Javier Porta ,Argentina,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Antoine Guillot ,France,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Hauvick Habechian ,Lebanon,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Zhanna Issabayeva ,Kazakhstan,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Manuel Kalmanovitz ,Colombia,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Dan Kois ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Maggie Lee ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Guy Lodge ,UK,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Verena Lueken ,Germany,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Lee Marshall ,Italy,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Antonio Mart√≠nez ,Chile,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Susanne Ostwald ,Switzerland,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Matthew Patches ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Hannah Pilarczyk ,Germany,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Zakir Hossein ,Bangladesh,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Tasha Robinson ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Rene Rodriguez ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Alyssa Rosenberg ,US,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Eric Sasono ,Indonesia,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Yael Shuv ,Israel,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Alin Tasciyan ,Turkey,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Stephen Teo ,Singapore,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Rahul Verma ,UK,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Chadi Zeneddine ,Qatar,Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",2001,Japan,8.6,9.3
+Luciano Castillo ,Cuba,"Spring, Summer, Fall, Winter®πand Spring",Kim Ki-duk,"Drama, Romance",2003,South Korea,8.1,8.5
+Mario Naito ,Cuba,"Spring, Summer, Fall, Winter®πand Spring",Kim Ki-duk,"Drama, Romance",2003,South Korea,8.1,8.5
+Zakir Hossein ,Bangladesh,"Spring, Summer, Fall, Winter®πand Spring",Kim Ki-duk,"Drama, Romance",2003,South Korea,8.1,8.5
+Joseph Fahim ,Egypt,Still Life,Jia Zhangke,"Comedy, Drama, Romance",2006,China,5.6,8.0
+Stephen Teo ,Singapore,Still Life,Jia Zhangke,"Comedy, Drama, Romance",2006,China,5.6,8.0
+Raymond Zhou ,China,Still Life,Jia Zhangke,"Comedy, Drama, Romance",2006,China,5.6,8.0
+Yael Shuv ,Israel,Still Walking,Hirokazu Koreeda,Drama,2008,Japan,8.0,8.8
+Fernanda Sol√≥rzano ,Mexico,Still Walking,Hirokazu Koreeda,Drama,2008,Japan,8.0,8.8
+David Stratton ,Australia,Still Walking,Hirokazu Koreeda,Drama,2008,Japan,8.0,8.8
+Tina Hassannia ,Canada,Stray Dogs,Tsai Ming-liang,"Crime, Drama, Thriller",2013,Malaysia,6.8,7.2
+Mario Espinosa ,Cuba,Sympathy for Mr Vengeance,Park Chan-wook,"Action, Drama, Thriller",2002,South Korea,7.7,7.9
+Sam Adams ,US,Syndromes and a Century,Apichatpong Weerasethakul,Drama,2006,Thailand,7.5,7.7
+Oggs Cruz ,Philippines,Syndromes and a Century,Apichatpong Weerasethakul,Drama,2006,Thailand,7.5,7.7
+Kenji Fujishima ,US,Syndromes and a Century,Apichatpong Weerasethakul,Drama,2006,Thailand,7.5,7.7
+Michael Koresky ,US,Syndromes and a Century,Apichatpong Weerasethakul,Drama,2006,Thailand,7.5,7.7
+Jonathan Romney ,UK,Syndromes and a Century,Apichatpong Weerasethakul,Drama,2006,Thailand,7.5,7.7
+E Nina ,Italy,Taxi Tehran,Jafar Panahi,"Comedy, Drama",2015,Iran,7.3,8.0
+Tina Hassannia ,Canada,Ten,Abbas Kiarostami,"Action, Crime, Drama",2002,Iran,5.7,7.6
+Andreas Kilb ,Germany,Ten,Abbas Kiarostami,"Action, Crime, Drama",2002,Iran,5.7,7.6
+Zakir Hossein ,Bangladesh,Ten,Abbas Kiarostami,"Action, Crime, Drama",2002,Iran,5.7,7.6
+Isabelle Regnier ,France,Ten,Abbas Kiarostami,"Action, Crime, Drama",2002,Iran,5.7,7.6
+NT Binh ,France,The Assassin,Hou Hsiao-hsien,"Action, Crime, Drama",2015,China,6.3,7.2
+Shiguehiko Hasumi ,Japan,The Assassin,Hou Hsiao-hsien,"Action, Crime, Drama",2015,China,6.3,7.2
+Verena Lueken ,Germany,The Assassin,Hou Hsiao-hsien,"Action, Crime, Drama",2015,China,6.3,7.2
+Stephen Teo ,Singapore,The Assassin,Hou Hsiao-hsien,"Action, Crime, Drama",2015,China,6.3,7.2
+Rahul Verma ,UK,The Assassin,Hou Hsiao-hsien,"Action, Crime, Drama",2015,China,6.3,7.2
+Ella Taylor ,US,The Band®πs Visit,Eran Kolirin,"Comedy, Drama, Music",2007,Israel,7.6,8.1
+Enrico Chiesa ,Senegal,The Blind Swordsman: Zatoichi,Takeshi Kitano,"Action, Comedy, Crime",2003,Japan,7.6,7.4
+Andreas Kilb ,Germany,The Circle,Jafar Panahi,"Drama, Sci-Fi, Thriller",2000,Iran,5.3,7.6
+Ong Soh ,Singapore,The Circle,Jafar Panahi,"Drama, Sci-Fi, Thriller",2000,Iran,5.3,7.6
+Michael Arbeiter ,US,The Congress,Ari Folman,"Animation, Drama, Sci-Fi",2013,Israel,6.5,7.7
+Mario Espinosa ,Cuba,The Congress,Ari Folman,"Animation, Drama, Sci-Fi",2013,Israel,6.5,7.7
+Ben Mankiewicz ,US,The Gatekeepers,Dror Moreh,"Documentary, History, War",2012,Israel,7.6,7.6
+Colin Covert ,US,The Host,Bong Joon-ho,"Action, Adventure, Romance",2006,South Korea,5.9,7.3
+Hannah Brown ,Israel,The Matchmaker,Avi Nesher,"Comedy, Romance",2010,Israel,6.5,
+Carrie Rickey ,US,The Namesake,Mira Nair,Drama,2006,India,7.5,8.0
+Raymond Zhou ,China,The Sun Also Rises,Jiang Wen,Drama,2007,China,6.3,8.0
+Rasha Salti ,Lebanon,The Time That Remains,Elia Suleiman,"Drama, History",2009,Israel,7.1,7.5
+Simon Abrams ,US,The White Meadows,Mohammad Rasoulof,Drama,2009,Iran,7.7,8.5
+David Ehrlich ,US,The Wind Rises,Hayao Miyazaki,"Animation, Biography, Drama",2013,Japan,7.8,7.8
+Sam Adams ,US,The World,Jia Zhangke,Drama,2004,China,7.1,7.3
+Kenji Fujishima ,US,The World,Jia Zhangke,Drama,2004,China,7.1,7.3
+Tom Gunning ,US,The World,Jia Zhangke,Drama,2004,China,7.1,7.3
+Utpal Borpujari ,India,Thithi,Raam Reddy,Drama,2015,India,8.4,7.6
+Steven Gaydos ,US,Three Monkeys,Nuri Bilge Ceylan,Drama,2008,Turkey,7.4,7.6
+Nick Schager ,US,Three Times,Hou Hsiao-hsien,"Drama, Romance",2005,China,7.0,7.5
+Antoine Guillot ,France,Tie Xi Qu: West of the Tracks,Wang Bing,Documentary,2002,China,8.6,8.3
+Isabelle Regnier ,France,Tie Xi Qu: West of the Tracks,Wang Bing,Documentary,2002,China,8.6,8.3
+Robbie Collin ,UK,Tropical Malady,Apichatpong Weerasethakul,"Drama, Fantasy, Romance",2004,Thailand,7.3,7.8
+Antoine Guillot ,France,Tropical Malady,Apichatpong Weerasethakul,"Drama, Fantasy, Romance",2004,Thailand,7.3,7.8
+Dominik Kamalzadeh ,Austria,Tropical Malady,Apichatpong Weerasethakul,"Drama, Fantasy, Romance",2004,Thailand,7.3,7.8
+Verena Lueken ,Germany,Tropical Malady,Apichatpong Weerasethakul,"Drama, Fantasy, Romance",2004,Thailand,7.3,7.8
+CÈdric Succivalli ,Italy,Tropical Malady,Apichatpong Weerasethakul,"Drama, Fantasy, Romance",2004,Thailand,7.3,7.8
+Rahul Verma ,UK,Tropical Malady,Apichatpong Weerasethakul,"Drama, Fantasy, Romance",2004,Thailand,7.3,7.8
+Shubhra Gupta ,India,Udaan,Vikramaditya Motwane,Drama,2010,India,8.2,7.0
+Michael Atkinson ,US,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Diego Batlle ,Argentina,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Lindiwe Dovey ,UK,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Tina Hassannia ,Canada,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Zhanna Issabayeva ,Kazakhstan,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Zhanna Issabayeva ,Kazakhstan,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Eric Kohn ,US,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Alberto Ramos ,Cuba,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Stephen Teo ,Singapore,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,"Drama, Fantasy",2010,Thailand,6.6,6.8
+Utpal Borpujari ,India,Waltz with Bashir,Ari Folman,"Animation, Biography, Drama",2008,Israel,8.0,8.7
+Hannah Brown ,Israel,Waltz with Bashir,Ari Folman,"Animation, Biography, Drama",2008,Israel,8.0,8.7
+Laya Maheshwari ,India,Waltz with Bashir,Ari Folman,"Animation, Biography, Drama",2008,Israel,8.0,8.7
+Antonio†Maz√≥n ,Cuba,Waltz with Bashir,Ari Folman,"Animation, Biography, Drama",2008,Israel,8.0,8.7
+Michael Koresky ,US,What Time Is It There?,Tsai Ming-liang,"Drama, Romance",2001,Malaysia,7.3,7.8
+Annette Insdorf ,US,Where Do We Go Now?,Nadine Labaki,"Comedy, Drama",2011,Lebanon,7.5,7.8
+Uri Klein ,Israel,Winter Sleep,Nuri Bilge Ceylan,Drama,2014,Turkey,8.2,8.1
+Susanne Ostwald ,Switzerland,Winter Sleep,Nuri Bilge Ceylan,Drama,2014,Turkey,8.2,8.1
+Agn√®s C ,France,Winter Sleep,Nuri Bilge Ceylan,Drama,2014,Turkey,8.2,8.1
+Calum Marsh ,Canada,Woman on the Beach,Hong Sang-soo,"Comedy, Drama, Romance",2006,South Korea,7.0,7.4
+Simon Abrams ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Colin Covert ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Oggs Cruz ,Philippines,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Peter Debruge ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+David Ehrlich ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Joseph Fahim ,Egypt,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+David Fear ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Tim Grierson ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Hauvick Habechian ,Lebanon,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Nick James ,UK,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Dan Kois ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Maggie Lee ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Lee Marshall ,Italy,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Farran Smith ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Keith Phipps ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Rene Rodriguez ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Joshua Rothkopf ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Yael Shuv ,Israel,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Scott Tobias ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Rahul Verma ,UK,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Alissa Wilkinson ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
+Stephanie Zacharek ,US,Yi Yi: A One and a Two,Edward Yang,"Drama, Romance",2000,China,8.1,8.9
